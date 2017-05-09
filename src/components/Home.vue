@@ -12,7 +12,6 @@
 				<p>{{list.content}}</p>
 			</li>
 		</ul>
-	
 	</div>
 	
 </template>
